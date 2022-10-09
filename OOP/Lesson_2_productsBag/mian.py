@@ -10,6 +10,6 @@ pizza = Classes.Product(id(), "pizza", 120)
 juice = Classes.Product(id(), "juice", 25)
 burger = Classes.Product(id(), "burger", 45)
 
-JhonDoe_bug = Classes.Bag(id(), client.getFullName, [pizza, juice, burger])
+JhonDoe_bug = Classes.Bag(id(), client.getFullName(), [pizza, juice, burger])
 
-print(JhonDoe_bug.getPrice())
+print(f"{JhonDoe_bug.client} bag's price:", JhonDoe_bug.getPrice())
