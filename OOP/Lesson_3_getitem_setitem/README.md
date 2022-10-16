@@ -1,5 +1,4 @@
 # HW: define the setitem method
-from: "stock.product[2] = Product(...)" to: "stock[2] = Product(...)"
 
-![image](https://user-images.githubusercontent.com/104380929/196023013-35b8f7a2-5886-45db-8dd7-2bbfe82fa1eb.png)
+![image](https://user-images.githubusercontent.com/104380929/196023109-1c7dde17-1317-45aa-a074-23c7a5491e1d.png)
 ![image](https://user-images.githubusercontent.com/104380929/196022889-128820a1-aff9-49f6-ac0e-4d648694887f.png)
