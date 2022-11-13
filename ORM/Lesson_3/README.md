@@ -1,4 +1,4 @@
 # HW3: finish: Client, Contact,   Bag, BagItem,   Product, Money, Stock
-Client + findByName(), findByEmail()
-Bag    + count(), findByClientId()
+Client + findByName(), findByEmail()__
+Bag    + count(), findByClientId()__
 Stock  + increaseQuantity(), decreaseQuantity()
